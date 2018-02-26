@@ -1,5 +1,5 @@
 {
-  "name": "eicar-test",
+  "name": "eicar-file",
   "version": "1.0.0",
   "description": "Contains the EICAR anti-malware test file.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethanent/eicar-test.git"
+    "url": "git+https://github.com/ethanent/eicar-file.git"
   },
   "keywords": [
     "eicar",
@@ -21,7 +21,7 @@
   "author": "Ethan Davis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethanent/eicar-test/issues"
+    "url": "https://github.com/ethanent/eicar-file/issues"
   },
-  "homepage": "https://github.com/ethanent/eicar-test#readme"
+  "homepage": "https://github.com/ethanent/eicar-file#readme"
 }
